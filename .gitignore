@@ -1,0 +1,36 @@
+## Visual Studio / .NET defaults
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+
+# Visual Studio Code
+.vscode/
+
+# IIS Express
+.vsconfig
+.IISExpress/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# dotnet
+project.lock.json
+project.fragment.lock.json
+
+# Ignore local appsettings
+appsettings.*.json
